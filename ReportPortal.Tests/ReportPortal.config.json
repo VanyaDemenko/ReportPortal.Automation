@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "server": {
+    "url": "url",
+    "project": "project",
+    "authentication": {
+      "uuid": "uuid"
+    }
+  },
+  "launch": {
+    "name": "ReportPortal Smocks",
+    "description": "Smock scenarios for ReportPortal",
+    "debugMode": false,
+    "attributes": [ "ReportPortal", "Smocks" ]
+  }
+}

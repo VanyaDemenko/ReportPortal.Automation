@@ -1,0 +1,12 @@
+{
+  "Admin": {
+    "login": "superadmin",
+    "password": "password",
+    "token": "Bearer token"
+  },
+  "Default": {
+    "login": "default",
+    "password": "password",
+    "token": "Bearer token"
+  }
+}
